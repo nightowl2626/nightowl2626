@@ -1,16 +1,27 @@
-## Hi there 👋
+# hi im sonya 👋
 
-<!--
-**nightowl2626/nightowl2626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im a developer, entrepreneur and hackathon addict. 
 
-Here are some ideas to get you started:
+here are my favourite projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔮 Blob Oracle  
+connected a slime mold oracle to an LLM so you can literally chat with a slime organism. science? art? both.
+
+* [repo](https://github.com/nightowl2626/blob)
+
+* [linkedin post about it](https://www.linkedin.com/posts/sonyablibli_i-asked-chatgpt-i-asked-grok-well-activity-7402755696338817024-QW_x  ), i presented it at AI Tinkerers
+
+one day i will write a long post about it lol !!! but today is not the day im afraid
+
+### 🧠 HeadPilot  
+hand-free browser extension
+
+* [repo](https://github.com/nightowl2626/headpilot)
+  
+* [hackathon submission](https://devpost.com/software/headpilot)
+
+---
+
+to be continued...
